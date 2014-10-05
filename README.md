@@ -13,7 +13,8 @@ COMPILE TOOLS
  
 AUTHORS
 ===============
-* 
+* Sofiya
+* Brian Havard
 
 LINKS
 ===============
